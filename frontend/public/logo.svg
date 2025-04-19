@@ -12,4 +12,16 @@
         stroke="url(#grad)" 
         stroke-width="4" 
         stroke-linecap="round"/>
+  <text x="100" y="85" 
+        text-anchor="middle" 
+        font-family="Arial" 
+        font-size="14" 
+        fill="url(#grad)" 
+        font-weight="bold">SPIRITUAL</text>
+  <text x="100" y="105" 
+        text-anchor="middle" 
+        font-family="Arial" 
+        font-size="14" 
+        fill="url(#grad)" 
+        font-weight="bold">ENGINEERING</text>
 </svg> 
