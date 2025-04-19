@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.log
+.vs/
+*.sln.iml
+*.csproj.user
+*.userprefs
+
+# Database
+*.mdf
+*.ldf
+*.sdf
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+.env.production 
