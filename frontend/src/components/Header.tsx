@@ -18,8 +18,8 @@ export const Header = () => {
       <Flex align="center">
         <Image
           src="/logo.svg"
-          alt="Yoga Essentials Logo"
-          height="50px"
+          alt="Spiritual Engineering Logo"
+          height="60px"
           marginRight="4"
           filter={colorMode === 'dark' ? 'brightness(1.2)' : 'none'}
         />
@@ -28,7 +28,7 @@ export const Header = () => {
           bgGradient="linear(to-r, purple.500, pink.500)"
           bgClip="text"
         >
-          {language === 'en' ? 'Yoga Essentials' : 'יוגה אסנשיאלס'}
+          {language === 'en' ? 'Spiritual Engineering' : 'הנדסה רוחנית'}
         </Heading>
       </Flex>
 
